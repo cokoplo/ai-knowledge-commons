@@ -110,3 +110,23 @@ shared civic resource. We provide free, openly licensed, human-centered educatio
 that the ability to understand and question AI is widely distributed across society
 rather than concentrated among a technical elite — strengthening the public's role in
 shaping the technology that serves them.
+
+---
+
+## 9. ⚠️ Goodstack / OpenAI submission guardrails (the four auto-rejections)
+
+OpenAI / Goodstack **auto-reject** four org types even with a 501(c)(3): **academic
+institutions (schools / universities), healthcare, religious orgs, government /
+political**. Our route survives all four because:
+
+- The 501(c)(3) entity we submit is **Superbloom**, whose IRS NTEE is *Social Science
+  Research Institutes / Public Policy Analysis* — **not** an educational institution,
+  healthcare, religious, or government entity. (Verified via ProPublica, EIN
+  47-2462310.) It is a pure public charity.
+- We are **not** a school / academy / institute / university. Keep the language as
+  "public-interest **education initiative**" (an *activity*), never "we are an
+  educational institution / school / training academy."
+- In Goodstack, do **not** self-select "Educational Institution" as the org type. What
+  counts is Superbloom's research / public-policy classification, not our project label.
+- We deliberately avoid church-, university-, or government-affiliated fiscal sponsors
+  (and Superbloom is none of those).
