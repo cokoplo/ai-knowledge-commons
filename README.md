@@ -1,11 +1,12 @@
 # AI Knowledge Commons
 
-> Free, open-source educational resources for public AI literacy.
+> Free, public-interest AI literacy education for the public.
 
-**AI Knowledge Commons** is an independent, non-commercial initiative dedicated to
-open-source technology research and public AI literacy education. We break down
-complex technical concepts into free, accessible, and openly licensed materials
-for learners worldwide.
+**AI Knowledge Commons** is an independent, non-commercial **public-interest
+technology education** initiative. We close the digital divide in understanding
+artificial intelligence by turning complex, fast-moving technical concepts into free,
+accessible, and openly licensed materials for learners worldwide — grounded in
+human-centered, public-interest values.
 
 ## Mission
 
@@ -17,15 +18,16 @@ them responsibly.
 
 ## What We Do
 
-- **Open educational content.** We publish plain-language explainers on AI
+- **Public AI-literacy education.** We publish plain-language explainers on AI
   fundamentals, large language models, spotting AI-generated content, responsible
   use, and open models (`content/`).
-- **Open-source research.** We maintain curated, cited notes and a public glossary
-  that anyone can review and improve.
-- **Open tooling.** We ship small, dependency-free Python utilities (`tools/`) that
-  support self-guided learning and are run automatically on every push (CI).
-- **Community contribution.** All materials are open for public contribution
-  under an open-source license.
+- **Cited educational research.** We maintain curated, cited notes and a public
+  glossary that anyone can review and improve.
+- **Open learning utilities.** We ship small, dependency-free Python utilities
+  (`tools/`) that support self-guided learning and are run automatically on every
+  push (CI) — open licensing here is a means to public access.
+- **Community contribution.** All materials are open for public contribution under
+  open, non-commercial licenses.
 
 ## Why It Matters
 

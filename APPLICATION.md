@@ -1,9 +1,20 @@
-# Open Collective — English Application Copy (ready to paste)
+# Open Collective — Fiscal Host: **Superbloom** (501(c)(3)) Application Copy
 
-This file contains polished, copy-paste-ready English text for your Open
-Collective (Open Source Collective) application. It mirrors the content already
-in this repository so the review team sees consistency between your GitHub and
-your application.
+> This file holds copy-paste-ready English text for your Open Collective application
+> where you select **Superbloom** as the Fiscal Host.
+>
+> **Why Superbloom:** Superbloom is a registered U.S. **501(c)(3)** nonprofit
+> (EIN 47-2462310, New York, NY; formerly *Simply Secure*). Its mission is to
+> *"change who technology serves"* — supporting digital-rights and public-interest
+> technology work that spans **research, policy, education, and practice**. That is
+> exactly what this project is. Unlike Open Source Collective (a 501(c)(6)), a
+> Superbloom fiscal-sponsorship letter is a genuine 501(c)(3) document, which is
+> what OpenAI / Goodstack require.
+>
+> **How to apply:** On Open Collective, click *Create a Collective* and, when asked
+> for a Fiscal Host, search and choose **Superbloom**. You can also fill Superbloom's
+> inquiry form first (superbloom.design → "fiscal sponsorship" / their inquiry form)
+> and they will follow up. No interview is described anywhere in their process.
 
 ---
 
@@ -11,76 +22,91 @@ your application.
 
 **AI Knowledge Commons**
 
-(Alternative: Open-Source Tech Insights)
-
 ---
 
-## 2. Short description (the one-line field)
+## 2. Short description (one-line field)
 
-> An independent, non-commercial open-source initiative publishing free AI
-> literacy and open-tech educational materials for the public.
+> A public-interest education initiative that improves AI literacy for the public,
+> so that understanding AI is a shared civic resource rather than a privileged one.
 
 ---
 
 ## 3. Long description (the "few hundred words" field)
 
-We are an independent, non-commercial initiative dedicated to open-source
-technology research and public AI literacy education. Our goal is to break down
-complex technological concepts into free, accessible materials that anyone can
-use, remix, and share.
+AI Knowledge Commons is an independent, non-commercial **public-interest technology
+education** initiative. Our purpose is to close the **digital divide** in
+understanding artificial intelligence: we turn complex, fast-moving AI concepts into
+free, plain-language, and openly licensed educational materials that anyone —
+regardless of background, income, or technical training — can use, remix, and share.
 
-The project is fully open source and lives at our public GitHub repository,
-where we publish plain-language explainers on artificial intelligence
-fundamentals, large language models, and responsible use. All educational
-content is released under open licenses (CC BY 4.0 for text, MIT for code), and
-our small tooling is dependency-free so learners can run it without installing
-anything.
+We ground our work in **human-centered** values. Every explainer is written to
+empower people to understand and question the systems that increasingly shape their
+lives, not to sell a product or a tool. Our topics span what AI is (and is not),
+how large language models work, how to spot AI-generated content, how to use AI
+tools responsibly, and what "open" means for models and for society. Materials are
+published bilingually (English and Chinese) so the knowledge reaches a wider public.
 
-We do not sell any commercial products or services. We do not run ads, and we do
-not collect personal data from readers. Everything we produce — software
-research notes, educational articles, and supporting utilities — is published
-openly and is freely accessible to the global community.
+The project is transparent and open by design: it lives in a public repository where
+all educational content is released under open licenses, and our small learning
+utilities are dependency-free so learners can run them without installing anything.
+Open licensing here is a *means to public access*, not an end in itself.
 
-Our mission is educational: to reduce the public's AI literacy gap by providing
-neutral, accurate, and up-to-date knowledge. We welcome community contributions
-through issues and pull requests, and we maintain a public Code of Conduct and
-contribution guidelines.
+We do **not** sell commercial products or services, we do **not** run ads, and we do
+**not** collect personal data from readers. Everything we produce — research notes,
+educational articles, glossaries, and supporting utilities — is published openly and
+is freely accessible to the global community. Any funds received are used solely to
+cover the production and hosting costs of these free educational materials.
+
+Our mission is educational and civic: to reduce the public's AI-literacy gap and to
+strengthen people's ability to participate in decisions about the technology that
+serves them. This aligns directly with public-interest technology and digital-rights
+education.
 
 ---
 
 ## 4. What we do (activity / purpose field)
 
-- Publish open educational explainers on AI and related technologies.
-- Maintain cited, reproducible open-source research notes.
-- Ship small open-source learning utilities.
-- Curate free, vetted learning resources for the public.
+- Publish free, plain-language AI literacy explainers for the general public.
+- Maintain cited, reproducible educational research notes and a public glossary.
+- Provide small, dependency-free learning utilities that support self-guided study.
+- Curate free, vetted learning resources and translate materials into multiple languages.
+- Advance **public understanding of AI** as a shared civic resource.
 
 ---
 
-## 5. Financial / non-profit statement
+## 5. Alignment with Superbloom's mission
 
-We are a non-commercial initiative. We do not sell products or services and we
-do not operate for profit. All deliverables are published under open-source
-licenses (MIT / CC BY 4.0) and are freely accessible to the public. Any funds
-received are used solely to cover hosting and production costs of these free
-educational materials.
-
----
-
-## 6. Links to provide in the application
-
-- GitHub organization / repository: `https://github.com/<your-org>/ai-knowledge-commons`
-- Project README (live): `https://github.com/<your-org>/ai-knowledge-commons#readme`
-- Live site (optional, if you publish the README via GitHub Pages / Notion):
-  `<your-public-site-url>`
-
-> Replace `<your-org>` and `<your-public-site-url>` with your real values before
-> submitting.
+Superbloom supports work that "advances digital rights and responsible technology …
+spanning research, policy, **education** and practice that shifts how technology
+operates in the public interest." AI Knowledge Commons does exactly this: it is
+**education** that shifts how technology is understood and governed by the public,
+grounded in human-centered, public-interest values. We are not building a commercial
+product; we are building public capacity.
 
 ---
 
-## 7. Mission statement (for the "charitable / educational mission" field)
+## 6. Financial / non-profit statement
 
-Our mission is to advance public understanding of artificial intelligence and
-open technology through free, openly licensed education, so that knowledge of
-how these systems work is a shared public resource rather than a privileged one.
+We are a non-commercial initiative. We do not sell products or services and we do not
+operate for profit. All deliverables are published under open, non-commercial
+licenses (CC BY 4.0 for educational text; MIT for the small learning utilities) and
+are freely accessible to the public. Any funds received are used solely to cover
+hosting and production costs of these free educational materials.
+
+---
+
+## 7. Links to provide in the application
+
+- GitHub repository: `https://github.com/cokoplo/ai-knowledge-commons`
+- Project README (live): `https://github.com/cokoplo/ai-knowledge-commons#readme`
+- Live site (GitHub Pages): `https://cokoplo.github.io/ai-knowledge-commons/`
+
+---
+
+## 8. Mission statement (for the "charitable / educational mission" field)
+
+Our mission is to advance public understanding of artificial intelligence as a
+shared civic resource. We provide free, openly licensed, human-centered education so
+that the ability to understand and question AI is widely distributed across society
+rather than concentrated among a technical elite — strengthening the public's role in
+shaping the technology that serves them.
