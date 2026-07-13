@@ -13,7 +13,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: List and print a concept
+      - name: Run concept explainer
         run: |
           python tools/explain_concept.py
           python tools/explain_concept.py 01-what-is-ai.md | head -3
+      - name: Build glossary
+        run: |
+          python tools/build_glossary.py
+          python tools/build_glossary.py --write docs/GLOSSARY.md
