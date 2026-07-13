@@ -46,14 +46,21 @@ Start with the explainers in `content/`, in this order:
 
 A generated, single-page version of the vocabulary lives at `docs/GLOSSARY.md`.
 
+## 中文内容（Chinese）
+
+All explainers above are also available in Chinese under [`content/zh/`](content/zh/),
+mirroring the English topics. This keeps the materials accessible to a wider,
+Chinese-reading audience.
+
 ## Repository Structure
 
 ```
-content/      Educational explainers (Markdown), including glossary.md
-tools/        Small open-source utilities that support learning
-resources/    Curated list of free learning resources
-docs/         ROADMAP.md and the generated GLOSSARY.md
-.github/      CI workflow that runs the tools on every push
+content/        Educational explainers (Markdown), including glossary.md
+content/zh/     Chinese versions of the explainers
+tools/          Small open-source utilities that support learning
+resources/      Curated list of free learning resources
+docs/           ROADMAP.md and the generated GLOSSARY.md
+.github/        CI workflow that runs the tools on every push
 ```
 
 ## Getting Started
