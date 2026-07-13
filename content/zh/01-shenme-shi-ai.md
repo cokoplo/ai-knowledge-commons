@@ -2,6 +2,7 @@
 title: 什么是人工智能
 license: CC BY 4.0
 language: zh
+last_reviewed: 2026-07-13
 ---
 
 # 什么是人工智能（AI）

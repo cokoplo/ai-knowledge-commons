@@ -2,6 +2,7 @@
 title: 开源权重与开源模型
 license: CC BY 4.0
 language: zh
+last_reviewed: 2026-07-13
 ---
 
 # 开源权重与开源模型

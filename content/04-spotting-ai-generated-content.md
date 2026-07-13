@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-07-13
+---
 # 4. How to Spot AI-Generated Content
 
 *Educational explainer · CC BY 4.0 · AI Knowledge Commons*

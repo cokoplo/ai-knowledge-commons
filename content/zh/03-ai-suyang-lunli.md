@@ -2,6 +2,7 @@
 title: AI 素养与伦理
 license: CC BY 4.0
 language: zh
+last_reviewed: 2026-07-13
 ---
 
 # AI 素养与伦理

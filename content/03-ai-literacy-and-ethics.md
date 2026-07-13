@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-07-13
+---
 <!-- License: CC BY 4.0 -->
 
 # 03 — AI Literacy and Ethics

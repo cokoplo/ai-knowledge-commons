@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-07-13
+---
 # 5. Responsible Use of AI Tools
 
 *Educational explainer · CC BY 4.0 · AI Knowledge Commons*

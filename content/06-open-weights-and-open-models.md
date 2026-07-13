@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-07-13
+---
 # 6. Open Weights and Open Models
 
 *Educational explainer · CC BY 4.0 · AI Knowledge Commons*

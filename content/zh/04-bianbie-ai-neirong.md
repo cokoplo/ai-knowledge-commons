@@ -2,6 +2,7 @@
 title: 如何辨别 AI 生成内容
 license: CC BY 4.0
 language: zh
+last_reviewed: 2026-07-13
 ---
 
 # 如何辨别 AI 生成的内容

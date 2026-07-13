@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-07-13
+---
 # Key Terms
 
 *A glossary of terms used across the AI Knowledge Commons materials.

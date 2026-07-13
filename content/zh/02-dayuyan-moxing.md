@@ -2,6 +2,7 @@
 title: 大语言模型是怎么工作的
 license: CC BY 4.0
 language: zh
+last_reviewed: 2026-07-13
 ---
 
 # 大语言模型（LLM）是怎么工作的
