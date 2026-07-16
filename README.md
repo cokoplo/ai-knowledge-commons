@@ -79,6 +79,92 @@ python tools/build_glossary.py --write docs/GLOSSARY.md
 
 All tools are dependency-free and run on Python 3.8+.
 
+## Using Codex & GPT-5.6
+
+For learners who want to move from reading about AI to building with it, two
+modern OpenAI tools are especially relevant. This section explains how to use
+them responsibly.
+
+### Codex — cloud software-engineering agent
+
+Codex is OpenAI's cloud-based coding agent. It operates inside an isolated
+sandbox where it can read and edit files, run shell commands, and execute tests
+to implement features or fix bugs — always under your supervision.
+
+**Install and authenticate**
+
+```bash
+npm install -g @openai/codex
+codex login
+```
+
+**Common usage**
+
+```bash
+codex                                          # start an interactive session
+codex exec "add a CHANGELOG populated from git log"
+codex exec --approval-mode on-request "refactor utils into a package"
+```
+
+**Safety model**
+
+- Runs in a sandbox with **read-only** access to your workspace by default.
+- Asks for approval before writing files or running commands that touch your
+  system, so you remain in control at every step.
+- Network access from the sandbox is restricted; local secrets and credentials
+  are not exposed to the agent.
+
+**Good habits**
+
+- Give Codex a clear, scoped task and the relevant file paths.
+- Review the proposed diff before approving.
+- Run your test suite (or the CI in this repo) after Codex makes changes.
+
+### GPT-5.6 — conversational & reasoning model
+
+GPT-5.6 is OpenAI's conversational model for Q&A, writing, and reasoning. You
+can use it through ChatGPT or programmatically via the OpenAI API.
+
+**Via the REST API**
+
+```bash
+curl https://api.openai.com/v1/chat/completions \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-5.6",
+    "messages": [
+      {"role": "system", "content": "You are a patient AI tutor."},
+      {"role": "user",   "content": "Explain transformers in one paragraph."}
+    ]
+  }'
+```
+
+**In Python**
+
+```python
+from openai import OpenAI
+
+client = OpenAI()
+response = client.chat.completions.create(
+    model="gpt-5.6",
+    messages=[
+        {"role": "system", "content": "You are a patient AI tutor."},
+        {"role": "user",   "content": "Explain transformers in one paragraph."},
+    ],
+)
+print(response.choices[0].message.content)
+```
+
+**Tips**
+
+- The exact model identifier changes over time — always check OpenAI's official
+  model reference for the current name and capabilities.
+- Keep system prompts clear and neutral; state constraints (tone, length,
+  audience) up front.
+- Treat model output as a draft: verify facts, especially technical or
+  statistical claims.
+
 ## Automated Checks
 
 Every push runs a CI workflow (`.github/workflows/ci.yml`) that executes both
