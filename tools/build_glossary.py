@@ -69,7 +69,12 @@ def build_glossary():
 
 
 def render_markdown(order, entries):
-    lines = ["# Glossary", "", "Key terms from the AI Knowledge Commons materials.", ""]
+    lines = [
+        "# Glossary",
+        "",
+        "Key terms from the AI Knowledge Commons personal knowledge OS materials.",
+        "",
+    ]
     for term in order:
         lines.append(f"- **{term}** — {entries[term]}")
     lines.append("")

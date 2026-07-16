@@ -1,6 +1,6 @@
 # Glossary
 
-Key terms from the AI Knowledge Commons materials.
+Key terms from the AI Knowledge Commons personal knowledge OS materials.
 
 - **Artificial Intelligence (AI)** — The field of building systems that perform tasks we usually associate with human intelligence, such as understanding language or recognizing patterns.
 - **Machine Learning** — A subset of AI where systems learn patterns from data instead of being given explicit step-by-step rules.
@@ -21,3 +21,10 @@ Key terms from the AI Knowledge Commons materials.
 - **RAG (Retrieval-Augmented Generation)** — A technique where a model fetches relevant documents before answering, to ground responses in real sources.
 - **Guardrails** — Constraints or filters that steer a model's behavior toward safe and intended use.
 - **AI literacy** — The ability to understand, evaluate, and use AI systems responsibly as a member of the public.
+- **Personal Knowledge OS** — A user-controlled layer that organizes chat logs, developer-tool context, and second-brain notes into searchable, reusable knowledge.
+- **Chat log** — A saved conversation with an AI assistant or human collaborator, including prompts, answers, decisions, and follow-up tasks.
+- **Developer tool context** — Useful signals from repositories, commits, issues, pull requests, terminal output, tests, documentation, and coding-agent sessions.
+- **Second brain** — A personal knowledge base, often built from notes, links, highlights, tags, and backlinks, that helps a person remember and reuse what they learn.
+- **Context pack** — A compact, reviewable bundle of relevant notes, transcripts, code history, and citations prepared for a person or AI assistant.
+- **Provenance** — A record of where a piece of knowledge came from, when it was created, and how it was transformed.
+- **Local-first** — A design approach that keeps useful data and processing on the user's own device whenever practical, with syncing or cloud use as an explicit choice.
