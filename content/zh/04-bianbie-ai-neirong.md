@@ -2,9 +2,8 @@
 title: 如何辨别 AI 生成内容
 license: CC BY 4.0
 language: zh
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
-
 # 如何辨别 AI 生成的内容
 
 > 在真假难辨的信息环境里，几个实用的观察角度。CC BY 4.0。

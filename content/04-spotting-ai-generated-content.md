@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
 # 4. How to Spot AI-Generated Content
 

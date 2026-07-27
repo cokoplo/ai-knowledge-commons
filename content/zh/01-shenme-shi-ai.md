@@ -2,9 +2,8 @@
 title: 什么是人工智能
 license: CC BY 4.0
 language: zh
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
-
 # 什么是人工智能（AI）
 
 > 本文以通俗语言解释人工智能是什么、能做什么、不能做什么。CC BY 4.0。

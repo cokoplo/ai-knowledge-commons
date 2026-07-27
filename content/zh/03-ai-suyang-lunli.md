@@ -2,9 +2,8 @@
 title: AI 素养与伦理
 license: CC BY 4.0
 language: zh
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
-
 # AI 素养与伦理
 
 > 面对 AI 生成的内容，普通人该如何保持清醒、负责任地使用。CC BY 4.0。

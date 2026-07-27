@@ -1,8 +1,7 @@
 ---
 license: CC BY 4.0
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-27
 ---
-
 # 个人知识操作系统（Personal Knowledge OS）
 
 > 一个由 AI 驱动的个人知识操作系统，用来统一你的聊天记录、开发工具和 second brain。CC BY 4.0。

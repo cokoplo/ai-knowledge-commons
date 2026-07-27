@@ -2,9 +2,8 @@
 title: 如何负责任地使用 AI 工具
 license: CC BY 4.0
 language: zh
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
-
 # 如何负责任地使用 AI 工具
 
 > 把 AI 用好的日常习惯清单。CC BY 4.0。

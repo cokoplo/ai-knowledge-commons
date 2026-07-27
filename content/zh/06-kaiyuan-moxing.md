@@ -2,9 +2,8 @@
 title: 开源权重与开源模型
 license: CC BY 4.0
 language: zh
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
-
 # 开源权重与开源模型
 
 > "开源"这个词在 AI 领域被用得很乱，本文帮你分清几种含义。CC BY 4.0。

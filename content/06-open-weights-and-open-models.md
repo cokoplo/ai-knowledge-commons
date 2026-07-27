@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-27
 ---
 # 6. Open Weights and Open Models
 
